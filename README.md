@@ -1,1 +1,1 @@
-# MF.DONUT
+na parte de colors as cores podem ser mudadas com forme desejar ms é necessario ainda mudar manualmente cada um com a primeira cor sempre sendo a mais escura e com forme vai decendo vai ficando mais claro
